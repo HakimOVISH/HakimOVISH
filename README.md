@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HakimOVISH
+- 👋 Hi, I’m AHID Abdelhakim
 - 👀 I’m interested in AI and Machine learning
 - 🌱 I’m currently learning How to automate certain processes
 - 📫 How to reach me :
